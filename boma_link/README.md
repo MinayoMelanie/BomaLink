@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" width="200">
+  <img src="https://github.com/Kinotijoan/BomaLink/assets/117837618/ac5908cd-1c44-430a-86a3-15e876531e14" width="200">
 </p>
 
 <h1 align="center">BomaLink</h1>
