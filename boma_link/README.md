@@ -25,9 +25,12 @@ Then, download either Android Studio or Visual Studio Code, with their respectiv
 Install dependencies from the terminal by running `flutter pub get . ` from the project root (see [using packages documentation](https://flutter.io/using-packages/#adding-a-package-dependency-to-an-app) for details and how to do this in the editor).
 
 In order to run your application, type:
-
-  $ cd .
-  $ flutter run
+```
+ - $ cd .
+```
+```
+ -$ flutter run
+```
 
 There you go, you can now open & edit the project. Enjoy!
 
