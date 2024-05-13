@@ -1,4 +1,12 @@
-# boma_link
+<p align="center">
+  <img src="" width="200">
+</p>
+
+<h1 align="center">BomaLink</h1>
+<h3 align="center">Maamuzi sahihi, ushirikiano wa kudumu</h3>
+
+### About the project
+With BomaLink, you'll get real-time updates on pasture availability, weather forecasts, and even track your animals' location – all to avoid conflicts and ensure a thriving future for both your herds and your crops.
 
 A new Flutter project.
 
