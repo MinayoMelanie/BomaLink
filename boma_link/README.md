@@ -43,7 +43,9 @@ There you go, you can now open & edit the project. Enjoy!
 ** Melanie Minayo ** :  [Github] https://github.com/MinayoMel
 ** Sam Kelly ** :  [Github] https://github.com/Icey-Python
 ** Moses Odeny ** : [Github] https://github.com/caspa-moses
-** Lynn Omae ** : [Github] https://github.com/LynnOmae 
+- ** Lynn Omae ** : [Github] https://github.com/LynnOmae 
+- **Patrick Kilter** - German translations: [GitHub](https://github.com/m0veax).
+
 
 
 
