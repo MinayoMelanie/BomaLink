@@ -26,10 +26,10 @@ Install dependencies from the terminal by running `flutter pub get . ` from the 
 
 In order to run your application, type:
 ```
- - $ cd .
+ $ cd .
 ```
 ```
- -$ flutter run
+ $ flutter run
 ```
 
 There you go, you can now open & edit the project. Enjoy!
