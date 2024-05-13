@@ -38,13 +38,12 @@ There you go, you can now open & edit the project. Enjoy!
 
 ## Contributors
 
-** Faith Mosonik ** : [Github] https://github.com/FaithMosonik
-** Joan Nkatha ** :  [Github] https://github.com/Kinotijoan
-** Melanie Minayo ** :  [Github] https://github.com/MinayoMel
-** Sam Kelly ** :  [Github] https://github.com/Icey-Python
-** Moses Odeny ** : [Github] https://github.com/caspa-moses
-- ** Lynn Omae ** : [Github] https://github.com/LynnOmae 
-- **Patrick Kilter** - German translations: [GitHub](https://github.com/m0veax).
+- **Faith Mosonik**- : [Github](https://github.com/FaithMosonik)
+- **Joan Nkatha**- :  [Github](https://github.com/Kinotijoan)
+- **Melanie Minayo**- :  [Github](https://github.com/MinayoMel)
+- **Sam Kelly** -:  [Github](https://github.com/Icey-Python)
+- **Moses Odeny**- : [Github](https://github.com/caspa-moses)
+- **Lynn Omae** -: [Github](https://github.com/LynnOmae) 
 
 
 
